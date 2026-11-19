@@ -7,7 +7,7 @@ struct NewsListView: View {
     var body: some View {
         NavigationStack {
             content
-                .navigationTitle("Space News")
+                .navigationTitle("🚀 Space News")
                 .searchable(text: $viewModel.searchText, prompt: "Search news")
                 .onSubmit(of: .search) {
                     Task { await viewModel.load() }
