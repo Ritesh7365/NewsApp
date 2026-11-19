@@ -3,6 +3,7 @@
 News app for iPhone made with SwiftUI. Shows the latest space news using the free Spaceflight News API.
 
 Made this for the networking part of my iOS learning.
+<img width="398" height="818" alt="image" src="https://github.com/user-attachments/assets/d9554c32-d273-4fc0-abb2-be2cdd0cda0c" />
 
 ## Features
 - latest news list with images
